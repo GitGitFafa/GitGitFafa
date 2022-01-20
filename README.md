@@ -3,7 +3,7 @@
 
 
 
-- ✌️Iniciando na carreira dos Devs como Front-End;
+- ✌️Iniciando na carreira dos Devs como Back-End (Mas ando olhando por mundo do Front-End, pois quero me aperfeiçoar ainda mais como desenvolvedor WEB;
 - 📘Atualmente estudando CSS;
 - 👨‍🎓Cursando faculdade em Análise de Sistemas;
 - 🗣️Arranho Inglês americano;
