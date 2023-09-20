@@ -2,10 +2,8 @@
 ![StandingOvationGIF](https://user-images.githubusercontent.com/37152773/144737532-d89a0f6e-aabd-4acc-980b-48977f09927a.gif) 
 
 
-
-- ✌️Iniciando na carreira dos Devs;
-- 📘Atualmente estudando Python e Postgree;
-- 👨‍🎓Cursando faculdade em Análise de Sistemas;
+- 📘Atualmente estudando Java;
+- 👨‍🎓Formado em Análise de Sistemas;
 - 🗣️Sei conversar em inglês;
 - ☕Team café.
 
