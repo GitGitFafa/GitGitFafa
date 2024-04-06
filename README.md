@@ -2,8 +2,10 @@
 ![StandingOvationGIF](https://user-images.githubusercontent.com/37152773/144737532-d89a0f6e-aabd-4acc-980b-48977f09927a.gif) 
 
 
-- 📘Atualmente estudando Java;
+- 📘Atualmente estudando React Native no Senac Petrópolis;
 - 👨‍🎓Formado em Análise de Sistemas;
+- Stacks que trabalho- WEB: Java com Springboot, HTML, CSS, Bootstrap e Angular.  SERVIDOR: Typescript com Node.js. BANCO DE DADOS: SQL Server, Workbench e phpMyAdmin. VERSIONAMENTO DE CÓDIGOS: Git.
+- Conhecimentos em gestão de projetos;
 - 🗣️Sei conversar em inglês;
 - ☕Team café.
 
