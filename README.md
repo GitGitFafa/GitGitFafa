@@ -11,7 +11,7 @@
   MOBILE: React Native e React.
   VERSIONAMENTO DE CÓDIGOS: Git. 
 - Conhecimentos em gestão de projetos;
-- 🗣️Sei conversar em inglês;
+- 🗣️I spico inglês;
 - ☕Team café.
 
 <div> 
