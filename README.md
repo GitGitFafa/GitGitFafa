@@ -1,17 +1,7 @@
 ### Olá, eu sou o Raphael Esch! Seja bem-vindo ao meu repositório Github ! \o/
 ![StandingOvationGIF](https://user-images.githubusercontent.com/37152773/144737532-d89a0f6e-aabd-4acc-980b-48977f09927a.gif) 
 
-
-- 📘Atualmente estudando React Native no Senac Petrópolis;
-- 👨‍🎓Formado em Análise de Sistemas;
-- Stacks que trabalho-
-  WEB: Java com Springboot, HTML, CSS, Bootstrap e Angular.
-  SERVIDOR: Typescript com Node.js.
-  BANCO DE DADOS: SQL Server, Workbench e phpMyAdmin.
-  MOBILE: React Native e React.
-  VERSIONAMENTO DE CÓDIGOS: Git. 
-- Conhecimentos em gestão de projetos;
-- 🗣️I spico inglês;
+- 🗣️I spico inglish :D
 - ☕Team café.
 
 <div> 
